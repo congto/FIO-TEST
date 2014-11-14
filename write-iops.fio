@@ -1,0 +1,4 @@
+[write]
+rw=write
+size=5g
+directory=/root

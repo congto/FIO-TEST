@@ -1,0 +1,8 @@
+[random-read]
+ioengine=libaio
+rw=randread
+bs=8k
+size=128m
+numjobs=2
+iodepth=8
+directory=/root

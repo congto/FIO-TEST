@@ -1,0 +1,4 @@
+[read]
+rw=read
+size=5G
+directory=/root

@@ -1,0 +1,5 @@
+[random-write]
+rw=randwrite
+size=1G
+directory=/root
+

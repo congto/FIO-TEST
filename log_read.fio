@@ -1,0 +1,15 @@
+[global]
+rw=read
+size=2G
+bs=4k
+direct=1
+ioengine=libaio
+numjobs=1
+iodepth=4
+log_avg_msec=1000
+write_bw_log=read
+write_lat_log=read
+write_iops_log=read
+group_reporting
+[hhd1]
+directory=/data
